@@ -1,3 +1,8 @@
+/*Skriv ett program som frågar användaren efter ett tal som ligger i intervallet 0<=x<10 (dvs talet
+måste vara större än eller lika med 0 och mindre än 10).
+Om talet ligger i intervallet skriv ut lämplig gratulationsfras och avsluta programmet, annars
+fråga användaren igen tills hen lyckas.*/
+
 import java.util.Scanner;
 
 public class Assignment2 {

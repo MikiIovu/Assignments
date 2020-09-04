@@ -1,3 +1,7 @@
+/*Uökning av förra uppgiften.
+Skriv nu en metod som tar emot en array av heltal, sorterar den med hjälp av Comb sort, och
+returnerar den sorterade arrayen.*/
+
 public class Assignment11 {
   public static void main(String[] args) {
     int[] firstExample = {1,5,7,2,0,2,6,4,0};

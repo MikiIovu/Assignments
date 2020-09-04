@@ -1,3 +1,11 @@
+/*Skriv en metod isAuthorised() som frågar användaren efter tre lösenord och som kontrollerar
+om alla tre är korrekta. Returnerar boolean. Ordningen användaren matar in lösenorden i ska
+inte spela någon roll - om lösenorden är “piggy”, “snuff” och “bark” så ska ordningen “snuff”,”bark”,”piggy” också accepteras.
+Använd isAuthorised()-metoden i er main-metod och skriv ut en lämplig gratulationsfras ifall användaren lyckats mata in alla lösenorden korrekt.
+Om användaren inte lyckades ska programmet låta henne försöka fyra gånger till, så att antalet totala inloggningsförsök man har på sig är fem.
+Om användaren svarar fel på det femte försöket, ska programmet avslutas. Om användaren däremot svarade rätt på det femte försöket,
+ska ett specialanpassat meddelande visas för att lugna användaren.*/
+
 import java.util.Scanner;
 
 public class Assignment5 {

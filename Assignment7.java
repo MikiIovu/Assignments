@@ -1,3 +1,9 @@
+/*Utöka ert program från förra uppgiften med ytterligare en metod, allAreFalse(), som returnerar
+sant om alla dess fyra argument är falska (den fungerar alltså precis tvärtom som anyIsTrue().
+Utöka också testprogrammet så att det testar den nya metoden.
+Tips: Ni kan återanvända anyIsTrue() när ni svarar på denna uppgift, så att ni inte behöver
+skriva ytterligare ett logiskt uttryck...*/
+
 public class Assignment7 {
   public static void main (String[] args) {
     boolean myExample = anyIsTrue (true, false, true, false);

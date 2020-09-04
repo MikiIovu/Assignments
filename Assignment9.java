@@ -1,3 +1,9 @@
+/*Nu ska ni skriva ett program som låter användaren mata in strängar. Programmet ska fortsätta
+fråga efter nya strängar så länge strängarna blir längre och längre, dvs så länge varje sträng har
+fler tecken i sig än den föregående. Om en sträng med lika många eller färre tecken matas in
+ska programmet sluta fråga efter strängar, skriva ut alla som hittills har matats in, och till slut
+avslutas.*/
+
 import java.util.*;
 
 public class Assignment9 {

@@ -1,3 +1,7 @@
+/*Skriv ett program som frågar användaren efter två tal och som sedan beräknar medelvärdet av
+dem. Dela upp programmet i två metoder: en som hämtar en integer från användaren, och en
+som beräknar medelvärdet av två tal. Anropa dessa metoder på lämpliga sätt.*/
+
 import java.util.Scanner;
 
 public class Assignment4 {

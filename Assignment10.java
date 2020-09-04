@@ -1,3 +1,7 @@
+/*Skapa en metod som tar emot en array av integers, och som sedan sorterar den enligt
+sorteringsalgoritmen bubble sort, och returnerar den. Skriv ett testprogram som testar metoden
+med en osorterad array - skriv då ut arrayen både innan och efter sorteringen.*/
+
 public class Assignment10 {
   public static void main(String[] args) {
 

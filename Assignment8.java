@@ -1,3 +1,7 @@
+/*Skriv en metod som tar genomsnittet av alla tal i en array och returnerar det. Skriv ett
+testprogram.
+Tips: metodens argument ska vara en array av doubles och den ska returnera en double.*/
+
 public class Assignment8 {
   public static void main(String[] args) {
 

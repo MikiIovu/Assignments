@@ -1,3 +1,8 @@
+/*Write a program with two different methods: A method, createArray(int x) that returns an array with all values from
+1 to x. A method, printArray(int[] arr) that will print an array on the format “[1,2,3]”.
+One more method, doubleUpArray(int[] arr) that will return a new array with twice as many slots. What was in the original array should be
+in the first half of the new array.*/
+
 public class ArrayExercise {
   public static void main(String[] args) {
 
